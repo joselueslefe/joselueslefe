@@ -2,7 +2,8 @@
 👨‍💻 Dev BackEnd   
 👨‍🎓 ADS   
 💡 Apaixonado por Tecnologia e Inovação. Um desenvolvedor em formação. 
-### <img src="https://skillicons.dev/icons?i=java,spring,postman,aws,mysql,instagram,linkedin,postgresql,go,gmail,python,maven,github" width="250"/>
+
+ <img src="https://skillicons.dev/icons?i=java,spring,postman,aws,mysql,instagram,linkedin,postgresql,go,gmail,python,maven,github" width="550"/>
 
 <div align="left">
 
