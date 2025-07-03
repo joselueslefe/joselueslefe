@@ -3,7 +3,7 @@
 👨‍🎓 ADS   
 💡 Apaixonado por Tecnologia e Inovação. Um desenvolvedor em formação. 
 
- <img src="https://skillicons.dev/icons?i=java,go,spring,git,postman,aws,mysql,instagram,linkedin,postgresql,docker,gmail,python,maven,github" width="700"/>
+ <img src="https://skillicons.dev/icons?i=java,kotlin,go,spring,git,postman,aws,mysql,instagram,linkedin,postgresql,docker,gmail,python,maven,github" width="800"/>
 
 <div align="left">
 
