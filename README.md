@@ -10,6 +10,9 @@
 
  <img src="https://skillicons.dev/icons?i=java,kotlin,go,spring,git,postman,aws,mysql,postgresql,docker,python,maven,github" width="800"/>
 
+
+## 📱 Contato
+
 <div align="left">
 
   <!-- Instagram -->
@@ -17,26 +20,13 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
+
+
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/joselueslefe" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
-  <!-- PyCharm -->
-  <img src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
-
-  <!-- IntelliJ IDEA -->
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Lang"/>
-
   
 </div>
-
-
-## 📱 Contato
-
-💼 LinkedIn: [@joselueslefe](https://www.linkedin.com/in/joselueslefe)
-🐙 GitHub: [@joselueslefe](https://github.com/joselueslefe)
-📸 Instagram: [@joselueslefee](https://www.instagram.com/joselueslefee)
 
