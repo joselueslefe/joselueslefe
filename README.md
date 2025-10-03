@@ -8,7 +8,7 @@
 
 💡 Apaixonado por Tecnologia. Um desenvolvedor em formação. 
 
- <img src="https://skillicons.dev/icons?i=java,kotlin,go,spring,git,postman,aws,mysql,postgresql,docker,python,maven,github" width="800"/>
+ <img src="https://skillicons.dev/icons?i=java,kotlin,go,python,spring,git,postman,aws,mysql,postgresql,docker,maven,github" width="800"/>
 
 
 ## 📱 Contato
